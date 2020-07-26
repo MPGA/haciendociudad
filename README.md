@@ -1,2 +1,4 @@
 # haciendociudad
-Street art map from www.haciendociudad.org 
+Street art map for www.haciendociudad.org
+City: Caracas, Venezuela
+Leaflet library 
